@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "BDav"
+  title: "BDav's Blog on Science Fiction"
   navbar:
     right:
       - about.qmd
@@ -12,7 +12,8 @@ website:
         href: https://x.com/bdav56
 format:
   html:
-    theme: cosmo
+    image: profile.jpg
+    theme: sandstone
     css: styles.css
 
 editor: visual

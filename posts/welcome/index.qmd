@@ -2,7 +2,27 @@
 title: "Welcome To My Blog"
 author: "bdav56"
 date: "2024-05-22"
-categories: [Data Science, Science Fiction]
+categories: [Data Science, R, Quarto]
 ---
 
-This is the start of a blog. Right now I am testing the features of Quarto. I hope to start an actual blog by the end of 2024.
+This is the first blog post. I'm attempting to experiment with r-coding here to see how it looks in html format. I also did a snapshot with renv() to experiment with package management.
+
+```{r}
+#| echo: true
+#| warning: false
+#| code-fold: true
+#| include: true
+
+
+library(tidyverse)
+
+cars %>%
+  ggplot(aes(x = dist, y = speed)) +
+  geom_point(color = "blue") +
+  labs(title = "Test Plot",
+       subtitle = "Data from Cars Dataset \n",
+       x = "Distance",
+       y = "Speed") +
+  theme_minimal()
+
+```
