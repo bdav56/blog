@@ -1,0 +1,8 @@
+---
+title: "Welcome To My Blog"
+author: "bdav56"
+date: "2024-05-22"
+categories: [Data Science, Science Fiction]
+---
+
+This is the start of a blog. Right now I am testing the features of Quarto. I hope to start an actual blog by the end of 2024.
