@@ -3,7 +3,7 @@ title: "Butlerian Jihad"
 author: "BDav56"
 date: "2024-05-25"
 image: profile.jpg
-categories: [code, analysis]
+categories: [science fiction, AI]
 ---
 
 ## Butlerian Jihad
