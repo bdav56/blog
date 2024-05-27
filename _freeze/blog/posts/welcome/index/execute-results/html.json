@@ -1,0 +1,17 @@
+{
+  "hash": "bdc123efc110fa75980ad71b2a98ae01",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Welcome To My Blog\"\nauthor: \"bdav56\"\ndate: \"2024-05-22\"\ncategories: [Data Science, R, Quarto]\n---\n\n\nThis is the first blog post. I'm attempting to experiment with r-coding here to see how it looks in html format. I also did a snapshot with renv() to experiment with package management.\n\n\n::: {.cell}\n\n```{.r .cell-code  code-fold=\"true\"}\nlibrary(tidyverse)\n\ncars %>%\n  ggplot(aes(x = dist, y = speed)) +\n  geom_point(color = \"blue\") +\n  labs(title = \"Test Plot\",\n       subtitle = \"Data from Cars Dataset \\n\",\n       x = \"Distance\",\n       y = \"Speed\") +\n  theme_minimal()\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

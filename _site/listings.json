@@ -2,8 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/posts/Butlerian Jihad/index.html",
       "/posts/Butlerian Jihad/index.html",
+      "/blog/posts/welcome/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/Butlerian Jihad/index.html",
+      "/blog/posts/welcome/index.html"
     ]
   }
 ]
