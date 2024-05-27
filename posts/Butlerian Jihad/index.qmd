@@ -32,11 +32,11 @@ The thought of an Omnius is certainly a terrifying one, but fortunately seems to
 
 Another scary aspect of Omnius is its supreme competence. Omnius can micro-manage entire worlds; expand its programming into new areas; and constantly improve its capabilities. No such AI exists in the modern world. Even the best ones are less intelligent than house cats according to the senior AI scientist at Meta:
 
-{{< tweet user=ylecun id=1760030561727655997 >}}
+{{< tweet ylecun 1760030561727655997 >}}
 
 Here is another description of modern AI from a linguist:
 
-{{< tweet user=aakashg0 id=1793355192395534691 >}}
+{{< tweet aakashg0 1793355192395534691 >}}
 
 As both tweets seem to communicate, modern AI is missing something to make its intelligence comparable to humanity's intelligence. The embarrassing "hallucinations" of some AI do not reflect the level of ability to plan galactic domination or interact with the real world.
 
