@@ -191,7 +191,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Data Science">Data Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="science fiction">science fiction <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="AGI">AGI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Data Science">Data Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="science fiction">science fiction <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -226,7 +226,46 @@ window.Quarto = {
   </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="science fiction,AI" data-listing-date-sort="1716620400000" data-listing-file-modified-sort="1718043765550" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="787">
+<div class="quarto-post image-right" data-index="0" data-categories="science fiction,AI,AGI" data-listing-date-sort="1718002800000" data-listing-file-modified-sort="1718052932337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="835">
+<div class="thumbnail">
+<p><a href="./posts/Machine Crusade/index.html" class="no-external"></a></p><a href="./posts/Machine Crusade/index.html" class="no-external">
+<p><img src="./posts/Machine Crusade/profile.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/Machine Crusade/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Machine Crusade/index.html" class="no-external">Machine Crusade</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/Machine Crusade/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('science fiction'); return false;">
+science fiction
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
+AI
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('AGI'); return false;">
+AGI
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/Machine Crusade/index.html" class="no-external">The Machine Crusade is the second book in the Dune Prequel series. It continues the story of the war between the League of Nobles and Thinking Machines. The most interesting…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/Machine Crusade/index.html" class="no-external">
+<div class="listing-date">
+Jun 10, 2024
+</div>
+<div class="listing-author">
+BDav56
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="science fiction,AI" data-listing-date-sort="1716620400000" data-listing-file-modified-sort="1718043765550" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="787">
 <div class="thumbnail">
 <p><a href="./posts/Butlerian Jihad/index.html" class="no-external"></a></p><a href="./posts/Butlerian Jihad/index.html" class="no-external">
 <p><img src="./posts/Butlerian Jihad/profile.jpg" class="thumbnail-image"></p>
@@ -262,7 +301,7 @@ BDav56
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Data Science,R,Quarto" data-listing-date-sort="1716361200000" data-listing-file-modified-sort="1716780642202" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
+<div class="quarto-post image-right" data-index="2" data-categories="Data Science,R,Quarto" data-listing-date-sort="1716361200000" data-listing-file-modified-sort="1716780642202" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
 <div class="thumbnail">
 <p><a href="./posts/welcome/index.html" class="no-external"></a></p><a href="./posts/welcome/index.html" class="no-external">
 <p class="card-img-top"><img src="posts\welcome\index_files\figure-html\unnamed-chunk-1-1.png"  class="thumbnail-image card-img"/></p>
@@ -387,7 +426,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/bdav56\.github\.io\/blog\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
