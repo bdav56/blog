@@ -20,7 +20,7 @@ The relationship between master and slave is the most feared outcome from the cr
 
 The generations of enslavement - and the lack of other possible ways of living - resulted in much of humanity becoming resigned and docile. Outside forces in the form of a jihad are necessary to break this relationship.
 
-### Opressive Optimizer and Chaotic Freewill
+### Oppressive Optimizer and Chaotic Freewill
 
 Another relationship is that between an on oppressive optimizer and a chaotic freewill. Omnius seeks to avoid waste in all its efforts. Some of the human characters, however, are unwilling to compromise their core values even if that means more war, death, and destruction as well as an uncertain victory in an extended conflict. This is most clear in a possible peace deal between the League and Nobles and Omnius which was brokered by Cogitators of the Ivory Tower. Cogitators are disembodied human brains committed to objectivity, science and philosophy. These cogitators traveled to a synchronized world to convince Omnius to accept an immediate cessation of war and a permanent freeze of the conflict. Omnius agreed to this proposal in principle but required that a league representative travel to the Synchronized Worlds to formally accept the proposal. When the cogitators returned the the League to present their proposal, the majority of the human representatives accepted it and celebrated because it was a way to stop the hostilities that had lasted decades and resulted in the annihilation of entire worlds. However, the two foremost leaders of the human crusade, Serena Butler and Iblis Ginjo, disagreed and sought to sabotage the agreement. Notably their titles were the High Priestess of the Butlerian Jihad and the Grand Patriarch.
 
@@ -42,6 +42,6 @@ Some of the relationships between AI and humanity is beneficial however. For exa
 
 The Machine Crusade is an interesting continuation in the prequel trilogy. I am not sure if this is intentional, but Omnius appears to be the least inclined towards violence as any characters in the book. Some of the revelations about the activities of Iblis Ginjo and Serena Butler also reveal fanaticism that will play a major role in the remainder of the series.
 
-The most likely scenario, in my opinion, is that AGI will become a tool similar to the the mercenary trainer. That is, AGI will be a tool with a specialization rather than any equivalent to an individual human. An AGI capable of creating its own values remains unlikely.
+The most likely human-AGI relationship, in my opinion, is that AGI will become a tool similar to the the mercenary trainer. That is, AGI will be a tool with a specialization rather than anything equivalent to a human. An AGI capable of creating its own values remains unlikely.
 
 I am a little burnt out on Dune, so my next post will be about a book called Shards of Earth.
