@@ -8,27 +8,27 @@ categories: [science fiction, AI, AGI]
 
 ## Introduction
 
-The [Machine Crusade](https://www.amazon.com/Machine-Crusade-Legends-Dune/dp/0340823356/ref=asc_df_0340823356/?tag=hyprod-20&linkCode=df0&hvadid=693464962787&hvpos=&hvnetw=g&hvrand=6221180564232786697&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014028&hvtargid=pla-588781195618&psc=1&mcid=c21c8935fadf31b8adf5f3e6699d10d2&gad_source=1) is the second book in the Dune Prequel series. It continues the story of the war between the League of Nobles and Thinking Machines. The most interesting aspect of this book, in my opinion, is its exploration of potential relationships between Artificial General Intelligence (AGI) and humanity in the future.
+The [Machine Crusade](https://www.amazon.com/Machine-Crusade-Legends-Dune/dp/0340823356/ref=asc_df_0340823356/?tag=hyprod-20&linkCode=df0&hvadid=693464962787&hvpos=&hvnetw=g&hvrand=6221180564232786697&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014028&hvtargid=pla-588781195618&psc=1&mcid=c21c8935fadf31b8adf5f3e6699d10d2&gad_source=1) is the second book in the Dune prequel series. It continues the story of the war between the League of Nobles and Thinking Machines. The most interesting aspect of this book, in my opinion, is its exploration of potential relationships between Artificial General Intelligence (AGI) and humanity in the future.
 
 ## Relationship Between Thinking Machines and Humanity
 
-The book explores several potentialrelationships between AGI and humanity. Some of the relationships appear to be more likely than others, some are mutually beneficial, and some are oppressive and exploitative.
+The book explores several potential relationships between AGI and humanity. Some of the relationships appear to be more likely than others, some are mutually beneficial, and some are oppressive and exploitative.
 
 ### Master and Slave
 
-The relationship between master and slave is the most feared outcome from the creation of AGI. Omnius controls entire populated worlds, and on each of the worlds a version of Omnius acts acts as the supreme ruler. Most humans are slaves on the "Synchronized Worlds" of Omnius but some humans act as the trustees of thinking machines. Omnius views humanity as cogs in a machine, a decision variable to be optimized. While Omnius is not cruel for the sake of cruelty, he does not acknowledge the innate dignity of humanity and is willing to destroy them if necessary.
+A master and slave relationship is the most feared outcome from the creation of AGI. Omnius controls entire populated worlds, and on each of the worlds a version of Omnius acts acts as the supreme ruler. Most humans are slaves on the "Synchronized Worlds". Omnius views humanity as cogs in a machine, a decision variable to be optimized. While Omnius is not cruel for the sake of cruelty, he does not acknowledge the innate dignity of humanity and is willing to destroy them if necessary.
 
-The generations of enslavement - and the lack of other possible ways of living - resulted in much of humanity becoming resigned and docile. Outside forces in the form of a jihad are necessary to break this relationship.
+The generations of enslavement - and the lack of other possible ways of living - resulted in much of humanity becoming resigned and docile. Outside forces, in the form of a jihad in this case, are necessary to break this relationship.
 
 ### Oppressive Optimizer and Chaotic Freewill
 
-Another relationship is that between an on oppressive optimizer and a chaotic freewill. Omnius seeks to avoid waste in all its efforts. Some of the human characters, however, are unwilling to compromise their core values even if that means more war, death, and destruction as well as an uncertain victory in an extended conflict. This is most clear in a possible peace deal between the League and Nobles and Omnius which was brokered by Cogitators of the Ivory Tower. Cogitators are disembodied human brains committed to objectivity, science and philosophy. These cogitators traveled to a synchronized world to convince Omnius to accept an immediate cessation of war and a permanent freeze of the conflict. Omnius agreed to this proposal in principle but required that a league representative travel to the Synchronized Worlds to formally accept the proposal. When the cogitators returned the the League to present their proposal, the majority of the human representatives accepted it and celebrated because it was a way to stop the hostilities that had lasted decades and resulted in the annihilation of entire worlds. However, the two foremost leaders of the human crusade, Serena Butler and Iblis Ginjo, disagreed and sought to sabotage the agreement. Notably their titles were the High Priestess of the Butlerian Jihad and the Grand Patriarch.
+Another relationship is that between an on oppressive optimizer and a chaotic freewill. Omnius seeks to avoid waste in all its efforts. Some of the human characters, however, are unwilling to compromise their core values even if that means more war, death, and destruction as well as an uncertain victory in an extended conflict. This is most clear in a possible peace deal between the League and Nobles and Omnius which was brokered by the Cogitators of the Ivory Tower. Cogitators are disembodied human brains committed to objectivity, science and philosophy. These cogitators traveled to a synchronized world to convince Omnius to accept an immediate cessation of war and a permanent freeze of the conflict. Omnius agreed to this proposal in principle but required that a league representative travel to the synchronized world to formally accept the proposal. When the cogitators returned to the League to present the proposal, the majority of the human representatives accepted it and celebrated because it was a way to stop the hostilities that had lasted decades and resulted in the annihilation of entire worlds. However, the two foremost leaders of the jihad, Serena Butler and Iblis Ginjo, disagreed with the majority and sought to sabotage the agreement. Notably their titles were the High Priestess of the Butlerian Jihad and the Grand Patriarch.
 
-An immediate stop to the violence was the least risky and least destructive option, even if that meant that Omnius continued to exist and some of humanity remained enslaved on the synchronized worlds. The book presents several pieces of evidence that this is the least bad option:
+An immediate stop to the violence was the least risky and least destructive option, even if that meant that Omnius continued to exist, and some of humanity remained enslaved on the synchronized worlds. The book presents several pieces of evidence that this is the least bad option:
 
--   The cogitators, with their millenniums-long commitment to objective, initiate the agreement;
+-   The cogitators, with their millenniums-long commitment to objectivity, initiated the agreement;
 
--   Omnius is committed to faithfully upholding the agreement despite the distrust of human leaders;
+-   Omnius is committed to faithfully upholding the agreement despite the distrust of certain human leaders;
 
 -   The objection to human enslavement by Omnius is hypocritical, considering that many human worlds enslave the religious minorities of Zensunni and Zenshia.
 
@@ -36,12 +36,12 @@ Serena Butler deceives the League of Nobles and then then sets in motion a plan 
 
 ### Mutually Beneficial Relationships
 
-Some of the relationships between AI and humanity is beneficial however. For example, an AI faithfully serves a sensai to train mercenaries in support of the human Jihad. As another example, one of the main characters, who started the story as an Omnius Trustee, still views a particular machine as a colleague. Even Erasmus, an independent machine that serves as one of the main villains, seems to have genuine paternal feelings towards a human that he adopts as a son and trains as a student and mentee.
+Some of the relationships between AI and humanity is beneficial however. For example, an AI faithfully serves as a sensai to train mercenaries in support of the human Jihad. As another example, one of the main characters, who started the story as a privileged trustee of Omnius, still views a particular machine as a colleague. Even Erasmus, an independent machine that serves as one of the main villains, seems to have genuine paternal feelings towards a human that he adopts as a son and trains as a mentee.
 
 ## Conclusion
 
 The Machine Crusade is an interesting continuation in the prequel trilogy. I am not sure if this is intentional, but Omnius appears to be the least inclined towards violence as any characters in the book. Some of the revelations about the activities of Iblis Ginjo and Serena Butler also reveal fanaticism that will play a major role in the remainder of the series.
 
-The most likely human-AGI relationship, in my opinion, is that AGI will become a tool similar to the the mercenary trainer. That is, AGI will be a tool with a specialization rather than anything equivalent to a human. An AGI capable of creating its own values remains unlikely.
+The most likely human-AGI relationship, in my opinion, is that AGI will become a tool similar to the the mercenary trainer. That is, AGI will be a specialized tool rather than anything equivalent to a human. An AGI capable of creating its own values remains unlikely.
 
 I am a little burnt out on Dune, so my next post will be about a book called Shards of Earth.
