@@ -1,7 +1,7 @@
 ---
 title: "Shards of Earth"
 author: "BDav56"
-date: "2024-06-10"
+date: "2024-06-19"
 image: profile.jpg
 categories: [science fiction, logistics, lines of communication]
 ---
