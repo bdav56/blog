@@ -7,6 +7,48 @@
     "text": "This is the first blog post. I’m attempting to experiment with r-coding here to see how it looks in html format. I also did a snapshot with renv() to experiment with package management.\n\n\nCode\nlibrary(tidyverse)\n\ncars %&gt;%\n  ggplot(aes(x = dist, y = speed)) +\n  geom_point(color = \"blue\") +\n  labs(title = \"Test Plot\",\n       subtitle = \"Data from Cars Dataset \\n\",\n       x = \"Distance\",\n       y = \"Speed\") +\n  theme_minimal()"
   },
   {
+    "objectID": "posts/Machine Crusade/index.html",
+    "href": "posts/Machine Crusade/index.html",
+    "title": "Machine Crusade",
+    "section": "",
+    "text": "The Machine Crusade is the second book in the Dune prequel series. It continues the story of the war between the League of Nobles and Thinking Machines. The most interesting aspect of this book, in my opinion, is its exploration of potential relationships between Artificial General Intelligence (AGI) and humanity in the future."
+  },
+  {
+    "objectID": "posts/Machine Crusade/index.html#introduction",
+    "href": "posts/Machine Crusade/index.html#introduction",
+    "title": "Machine Crusade",
+    "section": "",
+    "text": "The Machine Crusade is the second book in the Dune prequel series. It continues the story of the war between the League of Nobles and Thinking Machines. The most interesting aspect of this book, in my opinion, is its exploration of potential relationships between Artificial General Intelligence (AGI) and humanity in the future."
+  },
+  {
+    "objectID": "posts/Machine Crusade/index.html#relationship-between-thinking-machines-and-humanity",
+    "href": "posts/Machine Crusade/index.html#relationship-between-thinking-machines-and-humanity",
+    "title": "Machine Crusade",
+    "section": "Relationship Between Thinking Machines and Humanity",
+    "text": "Relationship Between Thinking Machines and Humanity\nThe book explores several potential relationships between AGI and humanity. Some of the relationships appear to be more likely than others, some are mutually beneficial, and some are oppressive and exploitative.\n\nMaster and Slave\nA master and slave relationship is the most feared outcome from the creation of AGI. Omnius controls entire populated worlds, and on each of the worlds a version of Omnius acts acts as the supreme ruler. Most humans are slaves on the “Synchronized Worlds”. Omnius views humanity as cogs in a machine, a decision variable to be optimized. While Omnius is not cruel for the sake of cruelty, he does not acknowledge the innate dignity of humanity and is willing to destroy them if necessary.\nThe generations of enslavement - and the lack of other possible ways of living - resulted in much of humanity becoming resigned and docile. Outside forces, in the form of a jihad in this case, are necessary to break this relationship.\n\n\nOppressive Optimizer and Chaotic Freewill\nAnother relationship is that between an on oppressive optimizer and a chaotic freewill. Omnius seeks to avoid waste in all its efforts. Some of the human characters, however, are unwilling to compromise their core values even if that means more war, death, and destruction as well as an uncertain victory in an extended conflict. This is most clear in a possible peace deal between the League and Nobles and Omnius which was brokered by the Cogitators of the Ivory Tower. Cogitators are disembodied human brains committed to objectivity, science and philosophy. These cogitators traveled to a synchronized world to convince Omnius to accept an immediate cessation of war and a permanent freeze of the conflict. Omnius agreed to this proposal in principle but required that a league representative travel to the synchronized world to formally accept the proposal. When the cogitators returned to the League to present the proposal, the majority of the human representatives accepted it and celebrated because it was a way to stop the hostilities that had lasted decades and resulted in the annihilation of entire worlds. However, the two foremost leaders of the jihad, Serena Butler and Iblis Ginjo, disagreed with the majority and sought to sabotage the agreement. Notably their titles were the High Priestess of the Butlerian Jihad and the Grand Patriarch.\nAn immediate stop to the violence was the least risky and least destructive option, even if that meant that Omnius continued to exist, and some of humanity remained enslaved on the synchronized worlds. The book presents several pieces of evidence that this is the least bad option:\n\nThe cogitators, with their millenniums-long commitment to objectivity, initiated the agreement;\nOmnius is committed to faithfully upholding the agreement despite the distrust of certain human leaders;\nThe objection to human enslavement by Omnius is hypocritical, considering that many human worlds enslave the religious minorities of Zensunni and Zenshia.\n\nSerena Butler deceives the League of Nobles and then then sets in motion a plan that results in her apparent martyrdom by Omnius. Iblis Ginjo then creates propaganda based on that martyrdom in an attempt to eliminate the possibility for peace. This deception is something that Omnius cannot understand - the inability of AI to anticipate deception or deceive is a theme of the book - and results in a continuation of the jihad.\n\n\nMutually Beneficial Relationships\nSome of the relationships between AI and humanity is beneficial however. For example, an AI faithfully serves as a sensai to train mercenaries in support of the human Jihad. As another example, one of the main characters, who started the story as a privileged trustee of Omnius, still views a particular machine as a colleague. Even Erasmus, an independent machine that serves as one of the main villains, seems to have genuine paternal feelings towards a human that he adopts as a son and trains as a mentee."
+  },
+  {
+    "objectID": "posts/Machine Crusade/index.html#conclusion",
+    "href": "posts/Machine Crusade/index.html#conclusion",
+    "title": "Machine Crusade",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe Machine Crusade is an interesting continuation in the prequel trilogy. I am not sure if this is intentional, but Omnius appears to be the least inclined towards violence as any characters in the book. Some of the revelations about the activities of Iblis Ginjo and Serena Butler also reveal fanaticism that will play a major role in the remainder of the series.\nThe most likely human-AGI relationship, in my opinion, is that AGI will become a tool similar to the the mercenary trainer. That is, AGI will be a specialized tool rather than anything equivalent to a human. An AGI capable of creating its own values remains unlikely.\nI am a little burnt out on Dune, so my next post will be about a book called Shards of Earth."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "List of Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nMachine Crusade\n\n\n\n\n\n\nscience fiction\n\n\nAI\n\n\nAGI\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nBDav56\n\n\n\n\n\n\n\n\n\n\n\n\nShards of Earth\n\n\n\n\n\n\nscience fiction\n\n\nlogistics\n\n\nlines of communication\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nBDav56\n\n\n\n\n\n\n\n\n\n\n\n\nButlerian Jihad\n\n\n\n\n\n\nscience fiction\n\n\nAI\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\nBDav56\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nData Science\n\n\nR\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nMay 22, 2024\n\n\nbdav56\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The is the skeleton of a blog using Quarto. By the end of the year, I hope to be posting about science fiction and data analysis. If I can find a sufficiently granular data set, I might post about urban crime in Harrisburg, Pensylvania as well."
+  },
+  {
     "objectID": "posts/Butlerian Jihad/index.html",
     "href": "posts/Butlerian Jihad/index.html",
     "title": "Butlerian Jihad",
@@ -42,45 +84,38 @@
     "text": "Conclusion\nThe most compelling argument to me is that dependence on AI will somehow limit human potential and creativity… But enslavement or destruction by an Omnius does not appear to be in our future without another technological revolution.\nThis is my first post based on a science fiction book. I’m about to start the second book in the Dune prequel series."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/Shards of Earth/index.html",
+    "href": "posts/Shards of Earth/index.html",
+    "title": "Shards of Earth",
     "section": "",
-    "text": "The is the skeleton of a blog using Quarto. By the end of the year, I hope to be posting about science fiction and data analysis. If I can find a sufficiently granular data set, I might post about urban crime in Harrisburg, Pensylvania as well."
+    "text": "I just completed Shards of Earth by Adrian Tchaikovsky. It is the first book in The Final Architecture trilogy. It sets place in a multi-species galaxy where something called unspace is the primary line of communication. The Orignators, a dead species that left behind artifacts throughout the galaxy, created paths in unspace across the galaxy. The paths are known, and the races of Shards of Earth can safely travel through them while they are asleep or in stasis. Only certain species, and surgically and chemically modified humans called Intermediaries, can travel through unspace while conscious or explore the “deep void” of unspace outside of the thoroughfares. The vast majority of sentient species that travel through unspace while conscious experience a menancing presence that eventually drives them insane - the Intermediaries feel this presence as well but they can withstand it.\nThe major villains of the book are the moon-sized Architects. These entities travel through “unspace”, suddenly appear in a planetary system with sentient life, and then reshape the entire planet into a beautiful shape with intricate patterns."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "List of Posts",
+    "objectID": "posts/Shards of Earth/index.html#introduction",
+    "href": "posts/Shards of Earth/index.html#introduction",
+    "title": "Shards of Earth",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nMachine Crusade\n\n\n\n\n\n\nscience fiction\n\n\nAI\n\n\nAGI\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nBDav56\n\n\n\n\n\n\n\n\n\n\n\n\nButlerian Jihad\n\n\n\n\n\n\nscience fiction\n\n\nAI\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\nBDav56\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nData Science\n\n\nR\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nMay 22, 2024\n\n\nbdav56\n\n\n\n\n\n\nNo matching items"
+    "text": "I just completed Shards of Earth by Adrian Tchaikovsky. It is the first book in The Final Architecture trilogy. It sets place in a multi-species galaxy where something called unspace is the primary line of communication. The Orignators, a dead species that left behind artifacts throughout the galaxy, created paths in unspace across the galaxy. The paths are known, and the races of Shards of Earth can safely travel through them while they are asleep or in stasis. Only certain species, and surgically and chemically modified humans called Intermediaries, can travel through unspace while conscious or explore the “deep void” of unspace outside of the thoroughfares. The vast majority of sentient species that travel through unspace while conscious experience a menancing presence that eventually drives them insane - the Intermediaries feel this presence as well but they can withstand it.\nThe major villains of the book are the moon-sized Architects. These entities travel through “unspace”, suddenly appear in a planetary system with sentient life, and then reshape the entire planet into a beautiful shape with intricate patterns."
   },
   {
-    "objectID": "posts/Machine Crusade/index.html",
-    "href": "posts/Machine Crusade/index.html",
-    "title": "Machine Crusade",
-    "section": "",
-    "text": "The Machine Crusade is the second book in the Dune prequel series. It continues the story of the war between the League of Nobles and Thinking Machines. The most interesting aspect of this book, in my opinion, is its exploration of potential relationships between Artificial General Intelligence (AGI) and humanity in the future."
+    "objectID": "posts/Shards of Earth/index.html#brief-review",
+    "href": "posts/Shards of Earth/index.html#brief-review",
+    "title": "Shards of Earth",
+    "section": "Brief Review",
+    "text": "Brief Review\nShards of Earth was a little bit of a let down primarily because the author’s Children of Time series, which is outstanding, set my expectations high with regard to Universe Building. More specifically, the book takes place in the distant future without a sufficient explanation of how humanity reached the status quo. For example, humanity shares colonies with a leech-like species that operates on a caste system. How did humanity create this mutually-beneficial relationship with this this visually terrifying species? As another example, a member of a crab-like species is a member of the crew, but little background is given on them other than they prefer to settle disputes without violence and die when they reproduce - this character’s main goal is to make enough money to hire a nurse to take care of his eggs after he reproduces. The Children of Time series, on the other hand, provides a more compelling background to its universe.\n…. However, its exploration of lines of communication is interesting. The rest of post will be about that."
   },
   {
-    "objectID": "posts/Machine Crusade/index.html#introduction",
-    "href": "posts/Machine Crusade/index.html#introduction",
-    "title": "Machine Crusade",
-    "section": "",
-    "text": "The Machine Crusade is the second book in the Dune prequel series. It continues the story of the war between the League of Nobles and Thinking Machines. The most interesting aspect of this book, in my opinion, is its exploration of potential relationships between Artificial General Intelligence (AGI) and humanity in the future."
+    "objectID": "posts/Shards of Earth/index.html#types",
+    "href": "posts/Shards of Earth/index.html#types",
+    "title": "Shards of Earth",
+    "section": "Types",
+    "text": "Types\nUnpace in Shards of Earth is comparable to a highway system. Advanced species can travel vast distances, measured in light years, in a matter of hours. An interesting aspect of this system is that a mysterious dead species built the paths through unspace, and modern species lack understanding of how the system actually works. This mode of travel is most similiar to travel by Warp in the Warhammer Series. In Warhammer, navigators can travel through certain paths of the “warp” easier and faster than others, and entities in the warp actively seek to destroy humanity.\nStartrek has a faster-than-light system but can only travel a small multiple of the speed of light. The Star Trek: Voyager series provides a pretty compelling story about how limiting this system is for galactic travel.\nHumanity in my favorite science-fiction series, The Expanse, travel through giant rings to a central node where they can travel to other parts of the universe via different rings. The Ring Builders are similar to the Originators in Shards of Earth. However, The Expanse provides a more compelling explanation of how this type of travel enrages “ring entities” which destroyed the Ring Builders and now seek to wipe out humanity for using the rings.\nIn my opinion, the lines of communication in The Expanse is the most interesting. The series fully explores how the discovery of this type of travel changes humanity, and how the military control of the central node empowers a particular faction. The Expanse is the only series, that I am aware of, that adequately explores logistics and logistical constraints in the near future. The Outer Planetary Alliance (OPA), for example, initially acts as exploited - but essential - logisticians in service of Earth, Mars, and their space stations throughout the solar system. An OPA demagogue is the primary antagonist is one of the books. As another example, the terraforming of Mars is not longer a compelling project after inhabitable worlds suddenly become reachable through the rings - this fact leads to the creation of the primary antagonist in the later books.\nMoreover, the lines of communication in The Expanse is compelling because there is a clear cost to it which is not initially understood. Conversely, Star Wars has the least compelling lines of communication because there is no cost or mystery associated with it."
   },
   {
-    "objectID": "posts/Machine Crusade/index.html#relationship-between-thinking-machines-and-humanity",
-    "href": "posts/Machine Crusade/index.html#relationship-between-thinking-machines-and-humanity",
-    "title": "Machine Crusade",
-    "section": "Relationship Between Thinking Machines and Humanity",
-    "text": "Relationship Between Thinking Machines and Humanity\nThe book explores several potential relationships between AGI and humanity. Some of the relationships appear to be more likely than others, some are mutually beneficial, and some are oppressive and exploitative.\n\nMaster and Slave\nA master and slave relationship is the most feared outcome from the creation of AGI. Omnius controls entire populated worlds, and on each of the worlds a version of Omnius acts acts as the supreme ruler. Most humans are slaves on the “Synchronized Worlds”. Omnius views humanity as cogs in a machine, a decision variable to be optimized. While Omnius is not cruel for the sake of cruelty, he does not acknowledge the innate dignity of humanity and is willing to destroy them if necessary.\nThe generations of enslavement - and the lack of other possible ways of living - resulted in much of humanity becoming resigned and docile. Outside forces, in the form of a jihad in this case, are necessary to break this relationship.\n\n\nOppressive Optimizer and Chaotic Freewill\nAnother relationship is that between an on oppressive optimizer and a chaotic freewill. Omnius seeks to avoid waste in all its efforts. Some of the human characters, however, are unwilling to compromise their core values even if that means more war, death, and destruction as well as an uncertain victory in an extended conflict. This is most clear in a possible peace deal between the League and Nobles and Omnius which was brokered by the Cogitators of the Ivory Tower. Cogitators are disembodied human brains committed to objectivity, science and philosophy. These cogitators traveled to a synchronized world to convince Omnius to accept an immediate cessation of war and a permanent freeze of the conflict. Omnius agreed to this proposal in principle but required that a league representative travel to the synchronized world to formally accept the proposal. When the cogitators returned to the League to present the proposal, the majority of the human representatives accepted it and celebrated because it was a way to stop the hostilities that had lasted decades and resulted in the annihilation of entire worlds. However, the two foremost leaders of the jihad, Serena Butler and Iblis Ginjo, disagreed with the majority and sought to sabotage the agreement. Notably their titles were the High Priestess of the Butlerian Jihad and the Grand Patriarch.\nAn immediate stop to the violence was the least risky and least destructive option, even if that meant that Omnius continued to exist, and some of humanity remained enslaved on the synchronized worlds. The book presents several pieces of evidence that this is the least bad option:\n\nThe cogitators, with their millenniums-long commitment to objectivity, initiated the agreement;\nOmnius is committed to faithfully upholding the agreement despite the distrust of certain human leaders;\nThe objection to human enslavement by Omnius is hypocritical, considering that many human worlds enslave the religious minorities of Zensunni and Zenshia.\n\nSerena Butler deceives the League of Nobles and then then sets in motion a plan that results in her apparent martyrdom by Omnius. Iblis Ginjo then creates propaganda based on that martyrdom in an attempt to eliminate the possibility for peace. This deception is something that Omnius cannot understand - the inability of AI to anticipate deception or deceive is a theme of the book - and results in a continuation of the jihad.\n\n\nMutually Beneficial Relationships\nSome of the relationships between AI and humanity is beneficial however. For example, an AI faithfully serves as a sensai to train mercenaries in support of the human Jihad. As another example, one of the main characters, who started the story as a privileged trustee of Omnius, still views a particular machine as a colleague. Even Erasmus, an independent machine that serves as one of the main villains, seems to have genuine paternal feelings towards a human that he adopts as a son and trains as a mentee."
-  },
-  {
-    "objectID": "posts/Machine Crusade/index.html#conclusion",
-    "href": "posts/Machine Crusade/index.html#conclusion",
-    "title": "Machine Crusade",
-    "section": "Conclusion",
-    "text": "Conclusion\nThe Machine Crusade is an interesting continuation in the prequel trilogy. I am not sure if this is intentional, but Omnius appears to be the least inclined towards violence as any characters in the book. Some of the revelations about the activities of Iblis Ginjo and Serena Butler also reveal fanaticism that will play a major role in the remainder of the series.\nThe most likely human-AGI relationship, in my opinion, is that AGI will become a tool similar to the the mercenary trainer. That is, AGI will be a specialized tool rather than anything equivalent to a human. An AGI capable of creating its own values remains unlikely.\nI am a little burnt out on Dune, so my next post will be about a book called Shards of Earth."
+    "objectID": "posts/Shards of Earth/index.html#next-books",
+    "href": "posts/Shards of Earth/index.html#next-books",
+    "title": "Shards of Earth",
+    "section": "Next Books",
+    "text": "Next Books\nMy next book will be the Battle of Corrin to finish the Dune prequel series. After that, I might read Blood Meridian by Cormack McCarthy for the second time. Blood Meridian is not a science fiction book, but Judge Holden has the feel of a outwordly character.\nIn other news, PA State police is reviewing my Right-To-Know request for geo-spatial crime data. That will be an interesting project once I move to the East Coast."
   }
 ]
