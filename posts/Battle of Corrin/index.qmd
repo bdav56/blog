@@ -1,5 +1,5 @@
 ---
-title: "Shards of Earth"
+title: "The Battle of Corrin"
 author: "BDav56"
 date: "2024-07-05"
 image: profile.jpg
@@ -8,7 +8,7 @@ categories: [science fiction, Dune, AI, AGI]
 
 ## Introduction
 
-*The Battle of Corrin* is the exciting finale of the Dune prequel series. It satisfyingly explains the origin of each main faction in the original Dune books. My personal favorite origin in that of the Mentats through Gilbertus Albans. His relationship with the Artificial Intelligence, Erasmus, provided the believable foundation for the development of humans that can process information like advanced computers.
+*The Battle of Corrin* is the exciting finale of the Dune prequel series. It satisfyingly explains the origin of each main faction in the original Dune books. My favorite origin in that of the Mentats through Gilbertus Albans. His relationship with the Artificial Intelligence, Erasmus, provided the believable foundation for the development of humans that can process information like advanced computers.
 
 My least favorite is the origin of the Harkonnens and Bene Gesserit. For the Harkonnens, the development of the grudge between the Harkonnen family and the Atreides is clear, but the development of the cruel and scheming Harkonnen character is still unclear. For the Bene Gesserit, the story of the "Sorceress of Rossak" felt more a fantasy story rather than a science fiction one.
 
