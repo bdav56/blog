@@ -1,0 +1,60 @@
+---
+title: "The Forever War and Forever Peace"
+author: "BDav56"
+date: "2024-08-24"
+image: profile.jpg
+categories: [science fiction, war, peace]
+---
+
+## Introduction
+
+I recently read *The Forever War* and *Forever Peace* by Joe Haldeman. Both are unique and interesting thought experiments by a Vietnam War veteran, and both are recipients of the Hugo and Nebula awards for Science Fiction. *The Forever War* is about a universe-spanning war with an alien species, and *Forever Peace* is about a world war fought mainly by platoons of bi-pedal machines called Soldier Boys. Humans operate the Soldier Boys from afar with perfect coordination because their brains contain "jacks" that connect their thoughts, feelings, and memories.
+
+Both of the books reveal cynicism about how wars start and how wars sustain themselves. The blog posts will talk about the themes of galaxy-spanning war, post scarcity societies, and mind-to-mind connections.
+
+## Universe-Spanning Wars
+
+The war in *The Forever War* starts due to manipulation of both politicians and militaries: The military men wanted a chance to fight and be important again after a long period of peace, and politicians wanted a war to stimulate the world economy. In this book, both humans and their alien enemies discovered how to safely travel faster than the speed using collapsed stars called "collapsars" spread across the universe. This means of transportation, however, results in time dilation due to the near instant travel across vast distances and the theory of relativity. The first operation against the alien enemy, for example lasts two-years from the perspective of the soldiers but 27-years from the perspective of earth.
+
+This time dilation meant that connections to society necessarily became looser:
+
+-   Family and friends on Earth died during campaigns;
+-   A new military specialty was necessary to help soldiers from earlier periods adapt to new ways of battle and new cultural norms;
+-   Communication became more difficult due to "older" soldiers not being familiar with future versions of English or future customs;
+-   Soldiers that returned to war often felt disconnected from society - a likely reference to the experience of soldiers returning from Vietnam - and were often inclined to re-enlist despite their antipathy towards the war.
+
+It also meant that the results of tactical engagements were more unpredictable:
+
+-   Success in battle was often a result of luck due to some forces possessing weapons that were more advanced through centuries of development and adaptation to enemy tactics.
+
+Another aspect of a universe-spanning war was that majority of governmental effort was necessary to support it. The people that actually fought were chosen based on an Elite Conscription Act and were all healthy, fit, and ingenious. The people left behind either worked desk jobs or were not a matter of significant concern for their government - a notable scene was two veterans, who recently fought in space, returning to earth to be farmers that defended themselves from raiders with antique firearms. 
+
+## Post Scarcity Societies
+
+In both *The Forever War* and *Forever Peace*, society no longer faces scarcity. Instead of preceding an Utopia as some might have expect, the lack of scarcity results in a darker and more cynical society. In *Forever Peace*, for example, technology is capable of building anything that a society might need, and everyone receives a ration card for basic needs. Cash is only necessary for illegal activity or luxuries. At the same time, however, brutal war and cycles of violence continue without any clear explanation.
+
+Interestingly, in both books, people often seek jobs despite their basic needs being met, and this reveals an aspect of their personality. In *The Forever War* there is even a black market related to gaining and subdividing jobs.
+
+## Mind-to-Mind Connections
+
+*Forever Peace* is not a direct sequel to *The Forever War*, but it is a spiritual successor. The latter revealed the basic tendencies that lead societies to war, but the former discusses how peace and empathy is a more natural state for individuals. After a certain amount of time being connected brain-to-brain - and being unable to keep secrets or deceive - humans form completely accepting and empathetic collectives. These collectives are unable to harm others except as a response to an attack - or eminent attack - on the collective.
+
+The last half of *The Forever War* is about a group of scientist seeking to "humanize" every person as a response to a discovery that could create a second Big Bang. They claim that only this level of connection and empathy can prevent the destruction of the world in the long term. Another group, called Enders resist the scientists, feel repulsed by mind-to-mind connections, and claim that pacifist humans would simply be killed by neighbors who refuse to connect to a collective. 
+
+A mind-to-mind connection seems impossible, but a mind-to-computer interface seemed impossible a few short years ago. Maybe control over a drone via a Neuralink is in the near future. 
+
+{{< tweet elonmusk 1826409318578565326 >}}
+
+## Conclusion
+
+If humanity expands beyond the solar system, then families and societies will either need to travel to together or become isolated in the way that we saw in *The Forever War*. This is dark, but I cannot imagine a future where travel of that distance will not become isolating in some way.
+
+The mind-to-mind connection in *Forever Peace* is the opposite experience: it creates a level of intimacy that most people will not accept. The first group of people to become pacifist by extended mind-to-mind connection include murders, rapists, and indifferent killers - most people would not like to empathize with their actions or worldviews. It would be interesting to see how a collective responds to mental illness or violence within a collective - this was somewhat explored when a member of a Soldier Boy platoon attempted suicide and was not allowed to reconnect with his platoon. It does not seem like someone could be denied connection, however, once they joined a collective.
+
+A mind-to-mind connection limited to the context of war, where it may be necessary for instant coordination, or people of extremely similar world views is more likely. I can imagine a group of monks having a unlimited mind-to-mind connection for example.  
+
+The most pressing issue discussed in the books is how humanity can maintain a family or society even when the space travel is relatively short - to Mars for example. The least pressing is how humanity should respond to the lack of scarcity - scarcity will likely always be a feature of the human condition.
+
+... I know I said I would read Blood Meridian in my next post, but I read two other books instead. I might finish *Blood Meridian* or read the *Dreaming Void* next. 
+
+

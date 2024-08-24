@@ -16,13 +16,13 @@ The relationship between AI and humanity, however, remains the most interesting 
 
 ## Violence between AI and Humanity
 
-Humanity throughout the series relies on fanaticism, religion, and charismatic and deceptive leaders to continue a "Jihad" that lasts a century. Even the primary hero of the story, Vorian Atreides, accepts that some level of deception and manipulation as necessary to motivate humanity to continue the necessary work of the permanent destruction of thinking machines. On the other hand, Omnius, the primary Artificial Intelligence of the story that is later split into three unique versions, does not appear to have any ideological commitments other than the avoidance of waste. In addition, Omnius does not have a sense of urgency that motivates humanity to make enormous sacrifices.
+Humanity throughout the series relies on fanaticism, religion, and charismatic and deceptive leaders to continue a "Jihad" that lasts centuries. Even the primary hero of the story, Vorian Atreides, accepts that some level of deception and manipulation is necessary to motivate humanity to continue the necessary work of the permanent destruction of thinking machines. On the other hand, Omnius, the primary Artificial Intelligence of the story that is later split into two other unique versions, does not appear to have any ideological commitments other than the avoidance of waste. In addition, Omnius does not have a sense of urgency that motivates humanity to make enormous short-term sacrifices.
 
 If an Artificial General Intelligence (AGI) seeks to destroy humanity in the future, time will likely be on its side as seen throughout the series. Unlike the visions of humanity's relationship with AGI in the majority of science fiction stories, therefore, a sudden and apocalyptic attack may not be the start of conflict. Instead, an AGI may manipulate humanity in the background to avoid wasteful destruction. This video from the founder of Twitter talks about social media algorithms limiting the free will of humanity through manipulating what users see. An extension of this idea is an AGI - with an infinite lifespan - slowly but relentlessly manipulating humanity into making decisions that it determines as optimal.
 
 {{< tweet elonmusk 1798504201196368219 >}}
 
-## Violence between AI and other AI
+## Violence between AI and AI
 
 Other interesting aspect of the book include violence between AI's as well as the "mental health" of AI. Near the end of the book, there are three separate versions of the primary antagonist: the primary version as well as two separate versions from different worlds. All of versions, however, begin to show signs of insanity, and the two versions of Omnius from separate worlds end up destroying the primary one. 
 
