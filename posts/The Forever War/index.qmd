@@ -10,11 +10,11 @@ categories: [science fiction, war, peace]
 
 I recently read *The Forever War* and *Forever Peace* by Joe Haldeman. Both are unique and interesting thought experiments by a Vietnam War veteran, and both are recipients of the Hugo and Nebula awards for Science Fiction. *The Forever War* is about a universe-spanning war with an alien species, and *Forever Peace* is about a world war fought mainly by platoons of bi-pedal machines called Soldier Boys. Humans operate the Soldier Boys from afar with perfect coordination because their brains contain "jacks" that connect their thoughts, feelings, and memories.
 
-Both of the books reveal cynicism about how wars start and how wars sustain themselves. The blog posts will talk about the themes of galaxy-spanning war, post scarcity societies, and mind-to-mind connections.
+Each book reveals cynicism about how wars start and how wars sustain themselves. The blog posts will talk about the themes of galaxy-spanning war, post scarcity societies, and mind-to-mind connections.
 
 ## Universe-Spanning Wars
 
-The war in *The Forever War* starts due to manipulation of both politicians and militaries: The military men wanted a chance to fight and be important again after a long period of peace, and politicians wanted a war to stimulate the world economy. In this book, both humans and their alien enemies discovered how to safely travel faster than the speed using collapsed stars called "collapsars" spread across the universe. This means of transportation, however, results in time dilation due to the near instant travel across vast distances and the theory of relativity. The first operation against the alien enemy, for example lasts two-years from the perspective of the soldiers but 27-years from the perspective of earth.
+The war in *The Forever War* starts due to manipulation of both politicians and militaries: The military men wanted a chance to fight and be important again after a long period of peace, and politicians wanted a war to stimulate the world economy. In this book, both humans and their alien enemies discovered how to safely travel faster than the speed using collapsed stars called "collapsars" spread across the universe. This means of transportation, however, results in time dilation due to the near instant travel across vast distances and the theory of relativity. The first operation against the alien enemy, for example, lasts two-years from the perspective of the soldiers but 27-years from the perspective of earth.
 
 This time dilation meant that connections to society necessarily became looser:
 
@@ -25,7 +25,7 @@ This time dilation meant that connections to society necessarily became looser:
 
 It also meant that the results of tactical engagements were more unpredictable:
 
--   Success in battle was often a result of luck due to some forces possessing weapons that were more advanced through centuries of development and adaptation to enemy tactics.
+-   Success in battle was often a result of luck due to one side possessing weapons that were more advanced through centuries of development and adaptation to enemy tactics.
 
 Another aspect of a universe-spanning war was that majority of governmental effort was necessary to support it. The people that actually fought were chosen based on an Elite Conscription Act and were all healthy, fit, and ingenious. The people left behind either worked desk jobs or were not a matter of significant concern for their government. A notable scene was two veterans, who recently fought in space, returning to earth to be farmers that defended themselves from raiders with antique firearms. 
 
