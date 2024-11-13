@@ -7,6 +7,8 @@ categories: [Data Science, R, Quarto]
 
 This is the first blog post. I'm attempting to experiment with r-coding here to see how it looks in html format. I also did a snapshot with renv() to experiment with package management.
 
+I attempted to procure an interesting data set on urban crime in Pennsylvania via a Freedom of Information Request, but the state pointed me to a publicly available dashboard that lacks a sufficient amount of detail. As a result, I will likely focus on sports data.
+
 ```{r}
 #| echo: true
 #| warning: false

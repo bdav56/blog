@@ -1,0 +1,9 @@
+---
+title: "Blood Meridian: or the Evening Redness in the West"
+author: "BDav56"
+date: "2024-11-13"
+image: profile.jpg
+categories: [empire, science fiction, biblical]
+---
+
+Test

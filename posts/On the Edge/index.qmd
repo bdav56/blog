@@ -18,7 +18,7 @@ The River views the world as "Complicated, stochastic, and contingent (pg. 16)."
 
 Thinking in terms of expected value (EV) and risk tends to be closely associated with certain cognitive and personality traits (pg. 23):
 
--   Cognitive traits of analytically, abstract, and decoupling;
+-   Cognitive traits of analytically, abstracting, and decoupling;
 
 -   Personality traits of competitive, critical, independent-minded, and risk-tolerant.
 

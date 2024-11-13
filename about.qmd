@@ -12,4 +12,6 @@ about:
       href: https://github.com/bdav56/blog
 ---
 
-The is the skeleton of a blog using Quarto. By the end of the year, I hope to be posting about science fiction and data analysis. If I can find a sufficiently granular data set, I might post about urban crime in Harrisburg, Pensylvania as well.
+The is my Quarto blog. The primary purpose of this blog is to record my thoughts on Science Fiction books and Data Science. Occasionally, I will also post about non-fiction books as well.
+
+Eventually, I hope to post about Sports Analytics related to college teams from Indiana and professional teams from Pennsylvania.
