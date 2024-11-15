@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "BDav's Blog on Science Fiction"
+  title: "Branden Davenport's Blog on Science Fiction"
   navbar:
     right:
       - about.qmd
