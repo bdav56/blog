@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+$theme-lightgreen: #eeffee;
+$theme-green: darkgreen;
+$theme-black: black;
+
+
+/*-- SCSS:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  color: $theme-green;
+}
+
+.navbar * {
+  color: $theme-green;
+  background-color: lightgrey;
+}
+
+span.navbar-title {
+  color: $theme-green;
+  transition-duration: 0.5s;
+  
+  &:hover {
+    color: lighten($theme-green, 10%);
+    transition-duration: 0.5s;
+  }
+}

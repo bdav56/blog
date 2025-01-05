@@ -1,0 +1,67 @@
+---
+title: "Freedom for The Thought We Hate"
+author: "BDav56"
+date: "2025-01-04"
+image: profile.jpg
+categories: [US, Constitution, Free Speech]
+---
+
+# Introduction
+
+The level of freedom of speech in the US is unique, and the commitment to free speech among Americans remains uniquely strong. I read [Freedom for the Thought we Hate]{.underline} by Anthony Lewis to better understand freedom of speech in the US.
+
+The founding fathers codified this freedom in the First Amendment of the US Constitution:
+
+> Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+
+This "parchment guarantee", however, does not ensure freedom. In fact, shortly after the passage of the amendment, congress passed a law to make disrespectful comments to the President illegal. Fortunately, an improving understanding of the constitution, judicial courage, and the common commitment to free speech resulted in our unique freedom overtime. The law related to disrespecting government officials outraged Americans and resulted in the next congress quickly overturning the law - an electoral victory for free speech. Many other improvements were the result of bold judicial decisions that checked other branches of government and formed lasting legal precedents.
+
+# General Philosophy
+
+The "Right of freely examining public characters and measures" is at the core of the the founding father's theory of government. Freedom of speech and freedom of the press are the essential supports for this theory because they expose and check governmental abuses. In addition, freedom of speech ensures the people find the truth in "The marketplace of ideas."
+
+In the words of one supreme court justice:
+
+> The ultimate good desired is better reached by free trade in ideas - that the best test of truth is the power of the thought to get itself accepted in the competion of the market, and the truth is the only ground upon which their wishes safely can be carried out.
+
+Another supreme court justice said that "Freedom to think as you will and to speak as you think are means indispensable to the discovery and spread of political truth." He also stated that the temptation to censor speech is counter productive because breeds fear, repression, and hate.
+
+# Types of Repression
+
+Governments generally have two tools to repress freedom of speech: licensing systems for publications and seditious libel laws. Seditious libel laws forbid speech that disrespects the government or its officials - even if that speech is objectively true. Initially, some judges in the US thought that the First Amendment only prevented licensing requirements.
+
+Powerful citizens and government officials have other tools to repress freedom of speech in countries without First Amendment protections: libel laws. As an example, libel lawsuits in the UK can force publications to delay publishing information until publication proves the information is true - the legal expense itself forces self-censorship and limits the timeliness, and therefore the value, of information. This is similar to licensing systems for the press because it occurs prior to any speech taking place.
+
+# Freedom of Speech for Every American
+
+The current understanding of freedom of speech evolved via Supreme Court precedents as well as dissenting opinions that revealed the "brooding spirit" of constitutional thought.
+
+## Incitement of Crime
+
+The anti-censorial soul of the first amendment revealed itself in fits and starts. One of the first major evolutions is that restriction on speech is unconstitutional without a "clear and present danger" that it will cause "substantive evils that Congress has the right to prevent." In other words, the "tendency" of speech to incite crime in the future was no longer constitutionally acceptable reason to punish speech.
+
+An influential dissent added "imminent" and "forthwith" requirements. Together, these two evolution formed the foundation of the Brandenburg test. Convictions related to speech must be for advocacy:
+
+1.  Directed to inciting or producing imminent lawless action, and
+
+2.  likely to produce such action.
+
+This is an extreme restriction that protects "speech we hate", and the US is stronger for this.
+
+## Libel
+
+The First Amendment also restricts libel lawsuits from public officials. The official must prove that a "False, damaging statement had been made with knowledge of its falsity" or a reckless disregard for the truth or falsity of the statement. The burden of proof in libel lawsuits, therefore, is on the official. In more plain terms, government officials must prove the statement was damaging and the speaker either intentionally lied or the the speaker was aware of the statements "probable falsity". The difficulty of meeting this burden ensures that the press and regular Americans can comment on public officials in accordance with the Madisonian principles of government.
+
+The background of this understanding of the First Amendment is the civil rights movement. State government officials sued newspapers for libel related to abuse of African Americans - the court cases bankrupted newspapers and intimidated journalist from printing negative stories. The First Amendment's restrictions on libel lawsuits ensured that journalists could continue to expose civil rights abuses.
+
+## Hate
+
+Hate speech is also constitutional. Although this protection is uncomfortable, it ensures that we are "Aware of terrible beliefs and strengthen our resolve to combat them (162)." It also ensures that the government does not legislate thought crime for undesirable political views - Director Hoover and Senator McCarthy violated the First Amendment by punishing citizens for undesirable political beliefs, and History repudiated them both.
+
+In addition, by protecting the right to possess extreme views and speak noxious ideas, the First Amendment protects the broad center and incentives good speech to counter "evil counsels." In the words of Justice Brandeis, "Sunshine is the best disinfectant."
+
+As I write this, European governments are arresting their citizens for post on social media. In the UK in particular, the current government is arresting people for posts related to certain communities, largely Pakistani Muslims, abusing hundreds of thousands of young girls, who were and are mostly working class and white. If the British possessed basic free speech protections, they would be able to say uncomfortable truths, and these truths could have protected the innocent - the marketplace of ideas could have worked to properly define the problem and find acceptable solutions. With first amendment protections, ignorance of the scope of the problem would have been impossible, and the profound cowardice of public officials in the UK would have been punished through the ballet box.
+
+# Conclusion
+
+The founding fathers defined revolutionary principles related to free speech. Like many other of these principles, it took time to fully implement. The judicial branch, through a series of bold decisions, explored and legally implemented those revolutionary ideas.

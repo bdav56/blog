@@ -6,7 +6,10 @@ website:
   title: "Branden Davenport's Blog on Science Fiction"
   navbar:
     right:
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: index.qmd
+        text: Posts
       - icon: github
         href: https://github.com/bdav56
       - icon: twitter
@@ -14,8 +17,7 @@ website:
 format:
   html:
     image: profile.jpg
-    theme: sandstone
-    css: styles.css
+    theme: [sandstone, styles.scss]
 
 editor: visual
 
