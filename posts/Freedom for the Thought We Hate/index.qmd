@@ -28,33 +28,33 @@ Another supreme court justice said that "Freedom to think as you will and to spe
 
 # Types of Repression
 
-Governments generally have two tools to repress freedom of speech: licensing systems for publications and seditious libel laws. Seditious libel laws forbid speech that disrespects the government or its officials - even if that speech is objectively true. Initially, some judges in the US thought that the First Amendment only prevented licensing requirements.
+Governments generally have two tools to repress freedom of speech: licensing systems for publications and seditious libel laws. Licensing systems restrict freedom of the press to publication that are not approved by the state. Seditious libel laws forbid speech that disrespects the government or its officials - even if that speech is objectively true. Initially, some judges in the US thought that the First Amendment only prevented licensing requirements.
 
-Powerful citizens and government officials have other tools to repress freedom of speech in countries without First Amendment protections: libel laws. As an example, libel lawsuits in the UK can force publications to delay publishing information until publication proves the information is true - the legal expense itself forces self-censorship and limits the timeliness, and therefore the value, of information. This is similar to licensing systems for the press because it occurs prior to any speech taking place.
+Powerful citizens and government officials have other tools to repress freedom of speech in countries without First Amendment protections: unjust libel laws. As an example, libel lawsuits in the UK can force publications to delay publishing information until publication proves the information is true - the legal expense itself forces self-censorship and limits the timeliness, and therefore the value, of information to the public. This is similar to licensing systems for the press because it occurs prior to any speech taking place.
 
 # Freedom of Speech for Every American
 
 The current understanding of freedom of speech evolved via Supreme Court precedents as well as dissenting opinions that revealed the "brooding spirit" of constitutional thought.
 
-## Incitement of Crime
+### Incitement of Crime
 
 The anti-censorial soul of the first amendment revealed itself in fits and starts. One of the first major evolutions is that restriction on speech is unconstitutional without a "clear and present danger" that it will cause "substantive evils that Congress has the right to prevent." In other words, the "tendency" of speech to incite crime in the future was no longer constitutionally acceptable reason to punish speech.
 
-An influential dissent added "imminent" and "forthwith" requirements. Together, these two evolution formed the foundation of the Brandenburg test. Convictions related to speech must be for advocacy:
+An influential dissent added "imminent" and "forthwith" requirements. Together, these two evolution formed the foundation of the Brandenburg test. Constitutional convictions related to speech must be for advocacy:
 
 1.  Directed to inciting or producing imminent lawless action, and
 
 2.  likely to produce such action.
 
-This is an extreme restriction that protects "speech we hate", and the US is stronger for this.
+This is an extreme restriction that protects "speech we hate", and the US is stronger because of it.
 
-## Libel
+### Libel
 
-The First Amendment also restricts libel lawsuits from public officials. The official must prove that a "False, damaging statement had been made with knowledge of its falsity" or a reckless disregard for the truth or falsity of the statement. The burden of proof in libel lawsuits, therefore, is on the official. In more plain terms, government officials must prove the statement was damaging and the speaker either intentionally lied or the the speaker was aware of the statements "probable falsity". The difficulty of meeting this burden ensures that the press and regular Americans can comment on public officials in accordance with the Madisonian principles of government.
+The First Amendment also restricts libel lawsuits from public officials. The official must prove that a "False, damaging statement had been made with knowledge of its falsity" or a reckless disregard for the truth or falsity of the statement. The burden of proof in libel lawsuits, therefore, is on the official. In more plain terms, government officials must prove the statement was damaging and that the speaker either intentionally lied or the the speaker was aware of the statement's "probable falsity". The difficulty of meeting this burden ensures that the press and regular Americans can comment on public officials in accordance with the Madisonian principles of government.
 
-The background of this understanding of the First Amendment is the civil rights movement. State government officials sued newspapers for libel related to abuse of African Americans - the court cases bankrupted newspapers and intimidated journalist from printing negative stories. The First Amendment's restrictions on libel lawsuits ensured that journalists could continue to expose civil rights abuses.
+The background of this understanding of the First Amendment is the civil rights movement. State government officials sued newspapers for libel related to abuse of African Americans - the court cases bankrupted newspapers and intimidated journalist from printing negative stories. The First Amendment's restrictions on libel lawsuits ensured that journalists could continue to expose civil rights abuses, and this played an essential part in the development of civil rights protections.
 
-## Hate
+### Hate Speech
 
 Hate speech is also constitutional. Although this protection is uncomfortable, it ensures that we are "Aware of terrible beliefs and strengthen our resolve to combat them (162)." It also ensures that the government does not legislate thought crime for undesirable political views - Director Hoover and Senator McCarthy violated the First Amendment by punishing citizens for undesirable political beliefs, and History repudiated them both.
 
